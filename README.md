@@ -1,5 +1,5 @@
 # Links
-Memória:
+Memorização:
 - https://drive.google.com/drive/folders/1Mh76wvxP125eZsOfW964VbEs8MhP7Gvo?usp=sharing
 
 Soroban:
